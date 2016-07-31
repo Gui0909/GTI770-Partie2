@@ -2,7 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry exported="true" kind="lib" path="C:/Program Files/Weka-3-7/weka.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/TEMP/Desktop/libsvm-321/java/libsvm.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Weka-3-8/weka.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
